@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preslav Mitroev</h1>
 <h3 align="center">I'm a web-dev, who is currently learning the depths of the whole programming world.</h3>
 
-- 🔭 I’m currently working on [wkndgram](wkndgram.vercel.app)
+- 🔭 I’m currently working on [wkndgram](https://github.com/pmitroev/wkndgram)
 
 - 🌱 I’m currently learning **TypeScript, NextJs**
 
