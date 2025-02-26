@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [wkndgram](https://github.com/pmitroev/wkndgram)
 
-- 🌱 I’m currently learning **TypeScript, NextJs**
+- 🌱 I’m currently learning **TypeScript, NextJs, NodeJs, Express**
 
 - 📫 How to reach me **presalv1233@gmail.com**
 
